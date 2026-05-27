@@ -6,7 +6,7 @@ I am a passionate Software Developer with over 3.5 years of experience in buildi
 
 ---
 
-### 🛠 My Technical Toolkit
+### 🛠 My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -27,15 +27,18 @@ I am a passionate Software Developer with over 3.5 years of experience in buildi
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazharul-islam321&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazharul-islam321&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazharul-islam321&theme=radical&hide_border=true" alt="GitHub Streak" width="88%" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-- 📧 [Email Me](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+
+*   💼 **LinkedIn:** [/in/mazharul-islam-mamun-40292217a](https://www.linkedin.com/in/mazharul-islam-mamun-40292217a/)
+*   📧 **Email:** [mazharulislam.lu2016@gmail.com](mailto:mazharulislam.lu2016@gmail.com)
+*   📍 **Location:** Sylhet, Bangladesh (Available for Remote Global Roles)
 
 ---
 
